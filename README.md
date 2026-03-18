@@ -51,6 +51,4 @@ Instead of losing time unknowingly, you get instant feedback on your habits.
 
 Small changes → Better focus over time
 
-🤝 Made in India 🇮🇳
-
-Student Project | Built using JavaScript
+Student Project | DJ Sanghvi
