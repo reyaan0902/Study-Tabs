@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Study Tabs",
+  "version": "1.0",
+  "description": "Earn XP for study tabs, lose XP for distractions!",
+  "permissions": ["tabs", "storage"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
